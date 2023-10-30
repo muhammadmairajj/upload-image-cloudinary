@@ -1,3 +1,6 @@
+## OUTPUT VIDEO
+https://github.com/muhammadmairajj/upload-image-cloudinary/assets/89729024/fe1470bf-13d3-4c45-9a62-bc13764d6cd0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
